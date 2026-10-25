@@ -27,9 +27,15 @@
 
 <div align="center">
 
-| 🎯 Mission | 💡 Mindset | 🧰 Roles |
-|:---:|:---:|:---:|
-| Make technology safer | Learn by building | Cybersecurity professional · AI builder · IT trainer |
+| MISSION | MINDSET | IDENTITY | CURRENT QUEST |
+|:---:|:---:|:---:|:---:|
+| Make technology safer | Learn by building | Cybersecurity Professional | Explore AI Engineering |
+| Build practical solutions | Stay curious | IT Instructor | Practice CTF challenges |
+| Secure what matters | Experiment and improve | Cybersecurity Project Builder | Turn ideas into projects |
+
+<br>
+
+`[ LEARN ]` ━━━ `[ BUILD ]` ━━━ `[ TEST ]` ━━━ `[ SECURE ]` ━━━ `[ REPEAT ]`
 
 </div>
 
